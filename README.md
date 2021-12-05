@@ -13,6 +13,12 @@
 
 
 ---
+# Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+
+---
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:end -->
