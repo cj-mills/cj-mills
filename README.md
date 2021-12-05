@@ -13,9 +13,11 @@
 
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
+[<img align="left" alt="GitHub" width="32px" src="https://github.com/github/explore/raw/b71c44e3113f74876a894853d0543eb918510365/topics/jupyter-notebook/jupyter-notebook.png" />][jupyter-notebook]
+
 <!-- [<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website-tags] -->
 
-[<img align="left" alt="Solidity" width="32px" src="https://github.com/github/explore/raw/b71c44e3113f74876a894853d0543eb918510365/topics/solidity/solidity.png" />][solidity]
+<!-- [<img align="left" alt="Solidity" width="32px" src="https://github.com/github/explore/raw/b71c44e3113f74876a894853d0543eb918510365/topics/solidity/solidity.png" />][solidity] -->
 
 <br/>
 
@@ -65,7 +67,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cj-mills&layout=compact&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/cj-mills/github-readme-stats)
 
 
-[width]: "32px"
 [website]: https://christianjmills.com
 [website-tags]: https://christianjmills.com/categories
 [website-python]: https://christianjmills.com/categories/#python
@@ -73,6 +74,7 @@
 [python]: https://www.python.org/
 [github]: https://github.com/
 [git]: https://git-scm.com/
+[jupyter-notebook]: https://jupyter.org/
 [bash]: https://www.gnu.org/software/bash/
 [solidity]: https://soliditylang.org/
 
