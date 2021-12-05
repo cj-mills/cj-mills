@@ -62,13 +62,8 @@
 <!--END_SECTION:activity-->
 
 ---
-<!-- Light Mode -->
-<!-- [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cj-mills&show_icons=true&hide_border=true)](https://github.com/cj-mills/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cj-mills&layout=compact&show_icons=true&hide_border=true)](https://github.com/cj-mills/github-readme-stats) -->
-
 <!-- Dark Mode -->
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cj-mills&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/cj-mills/github-readme-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cj-mills&show_icons=true&hide_border=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cj-mills&layout=compact&show_icons=true&hide_border=true&theme=github_dark&&hide=ASP.NET,ShaderLab&langs_count=6)
 
