@@ -65,6 +65,8 @@
 
 
 [website]: https://christianjmills.com
+[website-tags]: https://christianjmills.com/categories
+[website-python]: https://christianjmills.com/categories/#python
 
 
 <!--
