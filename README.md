@@ -5,7 +5,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="width" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="Visual Studio Code" width=width src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 
@@ -65,7 +65,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cj-mills&layout=compact&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/cj-mills/github-readme-stats)
 
 
-[width]: 32px
+[width]: "32px"
 [website]: https://christianjmills.com
 [website-tags]: https://christianjmills.com/categories
 [website-python]: https://christianjmills.com/categories/#python
