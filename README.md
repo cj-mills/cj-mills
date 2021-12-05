@@ -1,9 +1,23 @@
 ### Hi there 👋
 
 
-# Blog posts
+---
+# Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+---
+# Youtube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+
+---
+# Recent GitHub Activity
+<!-- START_SECTION:START -->
+<!-- END_SECTION:END -->
+
 
 
 <!--
