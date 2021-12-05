@@ -77,6 +77,7 @@
 [github]: https://github.com/
 [git]: https://git-scm.com/
 [jupyter-notebook]: https://jupyter.org/
+[pytorch]: https://pytorch.org/
 [bash]: https://www.gnu.org/software/bash/
 [solidity]: https://soliditylang.org/
 
