@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm C.J. - [christianjmills.com](https://www.christianjmills.com) 👋
 
 ### 🌱 I’m currently learning:
 * ### [Solidity]
