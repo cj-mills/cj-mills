@@ -17,8 +17,6 @@
 
 [<img align="left" alt="PyTorch" width="32px" src="https://github.com/cj-mills/cj-mills/raw/main/topics/pytorch/pytorch.png" />][pytorch]
 
-[<img align="left" alt="PyTorch" width="32px" src="https://github.com/cj-mills/cj-mills/raw/main/topics/pytorch/pytorch.png" />][pytorch]
-
 [<img align="left" alt="PyTorch" width="32px" src="https://github.com/cj-mills/cj-mills/raw/main/topics/unity/unity.png" />][unity]
 
 <!-- [<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website-tags] -->
