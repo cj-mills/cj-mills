@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cj-mills&layout=compact&show_icons=true&hide_border=true)](https://github.com/cj-mills/github-readme-stats)
 
 ---
 # Latest Blog posts
