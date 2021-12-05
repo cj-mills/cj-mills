@@ -15,7 +15,7 @@
 
 <!-- [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website-tags] -->
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/solidity/solidity.png" />][solidity]
+[<img align="left" alt="Solidity" width="26px" src="https://github.com/github/explore/raw/b71c44e3113f74876a894853d0543eb918510365/topics/solidity/solidity.png" />][solidity]
 
 <br/>
 
