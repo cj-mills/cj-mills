@@ -3,7 +3,7 @@
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/cdotjdotmills) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/christianjmills/)
 
 ---
-# Latest Blog posts
+### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [OpenVINO Object Detection for Unity Tutorial Pt.3](https://christianjmills.com/OpenVINO-Object-Detection-for-Unity-Tutorial-3/)
 - [OpenVINO Object Detection for Unity Tutorial Pt.2](https://christianjmills.com/OpenVINO-Object-Detection-for-Unity-Tutorial-2/)
@@ -15,7 +15,7 @@
 
 
 ---
-# Latest YouTube Videos
+### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Testing OpenVINO In-Editor Tool for Unity](https://www.youtube.com/watch?v=9n2UwCK2OoM)
 - [OpenVINO YOLOX Unity Plugin](https://www.youtube.com/watch?v=opClIrHumzI)
@@ -26,7 +26,7 @@
 
 
 ---
-# Recent GitHub Activity
+### Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com/cj-mills/christianjmills/issues/20) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
 2. 🗣 Commented on [#3](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/issues/3) in [cj-mills/Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial)
