@@ -9,15 +9,15 @@
 
 [<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="Git" width="32px" src="https://github.com/cj-mills/cj-mills/raw/main/icons/git/git.png" />][git]
 
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 [<img align="left" alt="GitHub" width="32px" src="https://github.com/github/explore/raw/b71c44e3113f74876a894853d0543eb918510365/topics/jupyter-notebook/jupyter-notebook.png" />][jupyter-notebook]
 
-[<img align="left" alt="PyTorch" width="32px" src="https://github.com/cj-mills/cj-mills/raw/main/topics/pytorch/pytorch.png" />][pytorch]
+[<img align="left" alt="PyTorch" width="32px" src="https://github.com/cj-mills/cj-mills/raw/main/icons/pytorch/pytorch.png" />][pytorch]
 
-[<img align="left" alt="PyTorch" width="32px" src="https://github.com/cj-mills/cj-mills/raw/main/topics/unity/unity.png" />][unity]
+[<img align="left" alt="PyTorch" width="32px" src="https://github.com/cj-mills/cj-mills/raw/main/icons/unity/unity.png" />][unity]
 
 <!-- [<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website-tags] -->
 
