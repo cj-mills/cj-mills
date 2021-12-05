@@ -15,6 +15,8 @@
 
 [<img align="left" alt="GitHub" width="32px" src="https://github.com/github/explore/raw/b71c44e3113f74876a894853d0543eb918510365/topics/jupyter-notebook/jupyter-notebook.png" />][jupyter-notebook]
 
+[<img align="left" alt="PyTorch" width="32px" src="https://github.com/cj-mills/cj-mills/raw/main/topics/pytorch/pytorch.png" />][pytorch]
+
 <!-- [<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website-tags] -->
 
 <!-- [<img align="left" alt="Solidity" width="32px" src="https://github.com/github/explore/raw/b71c44e3113f74876a894853d0543eb918510365/topics/solidity/solidity.png" />][solidity] -->
