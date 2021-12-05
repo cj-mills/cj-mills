@@ -38,7 +38,7 @@
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cj-mills&show_icons=true&hide_border=true)](https://github.com/cj-mills/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cj-millss&layout=compact&show_icons=true&hide_border=true)](https://github.com/cj-mills/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cj-mills&layout=compact&show_icons=true&hide_border=true)](https://github.com/cj-mills/github-readme-stats)
 
 
 <!--
