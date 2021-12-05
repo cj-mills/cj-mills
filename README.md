@@ -29,6 +29,12 @@
 5. 🗣 Commented on [#20](https://github.com/cj-mills/christianjmills/issues/20) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
 
 
+---
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cj-mills&show_icons=true&hide_border=true)](https://github.com/cj-mills/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cj-mills&show_icons=true&hide_border=true)](https://github.com/cj-mills/github-readme-stats)
+
 
 <!--
 **cj-mills/cj-mills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
