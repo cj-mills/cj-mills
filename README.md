@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning 
 
-### 📫 How to reach me:
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/christianjmills/) [![ProtonMail](https://img.shields.io/badge/--email?label=ProtonMail&logo=ProtonMail&style=social)](mailto:christian@christianjmills.com) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/cdotjdotmills)
+*  📫 How to reach me: [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/christianjmills/) [![ProtonMail](https://img.shields.io/badge/--email?label=ProtonMail&logo=ProtonMail&style=social)](mailto:christian@christianjmills.com) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/cdotjdotmills)
 
 
 ### Languages and Tools:
