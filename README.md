@@ -47,15 +47,10 @@
 
 
 
----
-### Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Testing OpenVINO In-Editor Tool for Unity](https://www.youtube.com/watch?v=9n2UwCK2OoM)
-- [OpenVINO YOLOX Unity Plugin](https://www.youtube.com/watch?v=opClIrHumzI)
-- [Unity Barracuda PoseNet Single Pose](https://www.youtube.com/watch?v=KQyJgXss9NA)
-- [Unity Barracuda PoseNet Multi-Pose](https://www.youtube.com/watch?v=F995ZadTZik)
-- [OpenVINO Plugin for Unity Demo](https://www.youtube.com/watch?v=uSmczpnPam8)
-<!-- YOUTUBE:END -->
+<!-- ---
+### Latest YouTube Videos -->
+<!-- _YOUTUBE:START -->
+<!-- _YOUTUBE:END -->
 
 
 ---
