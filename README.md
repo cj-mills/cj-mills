@@ -38,11 +38,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenVINO Object Detection for Unity Tutorial Pt.3](https://christianjmills.com/OpenVINO-Object-Detection-for-Unity-Tutorial-3/)
+- [OpenVINO Object Detection in the Unity Editor](https://christianjmills.com/OpenVINO-Object-Detection-for-Unity-Tutorial-In-Editor/)
 - [OpenVINO Object Detection for Unity Tutorial Pt.2](https://christianjmills.com/OpenVINO-Object-Detection-for-Unity-Tutorial-2/)
+- [OpenVINO Object Detection for Unity Tutorial Pt.3](https://christianjmills.com/OpenVINO-Object-Detection-for-Unity-Tutorial-3/)
 - [OpenVINO Object Detection for Unity Tutorial Pt.1](https://christianjmills.com/OpenVINO-Object-Detection-for-Unity-Tutorial-1/)
 - [Barracuda PoseNet Tutorial 2nd Edition Pt. 7](https://christianjmills.com/Barracuda-PoseNet-Tutorial-V2-7/)
-- [Barracuda PoseNet Tutorial 2nd Edition Pt. 6](https://christianjmills.com/Barracuda-PoseNet-Tutorial-V2-6/)
 <!-- BLOG-POST-LIST:END -->
 
 
