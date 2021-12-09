@@ -38,11 +38,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Procedural Tools Used to Make Far Cry 5](https://christianjmills.com/Procedural-World-Generation-Far-Cry-5/)
-- [Notes From NATS Keynote](https://christianjmills.com/Notes-From-NATS-Keynote/)
-- [Notes From Learning Generative Models of 3D Structures](https://christianjmills.com/Notes-From-Learning-Generative-Models-of-3D-Structures/)
-- [Notes From How A.I. Will Change the 3d Industry](https://christianjmills.com/Notes-From-How-AI-Will-Change-The-3D-Industry/)
-- [Customizing Your GitHub Profile](https://christianjmills.com/Customizing-Your-GitHub-Profile/)
+- [Notes on the Procedural Tools Used to Make Far Cry 5](https://christianjmills.com/Notes-on-the-Procedural-Tools-Used-to-Make-Far-Cry-5/)
+- [Notes on NATS Keynote](https://christianjmills.com/Notes-on-NATS-Keynote/)
+- [Notes on Machine Learning and Level Generation](https://christianjmills.com/Notes-on-Machine-Learning-and-Level-Generation/)
+- [Notes on Learning Generative Models of 3D Structures](https://christianjmills.com/Notes-on-Learning-Generative-Models-of-3D-Structures/)
+- [Notes on How A.I. Will Change the 3d Industry](https://christianjmills.com/Notes-on-How-AI-Will-Change-The-3D-Industry/)
 <!-- BLOG-POST-LIST:END -->
 
 
