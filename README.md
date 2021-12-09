@@ -38,11 +38,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Notes From NATS Keynote](https://christianjmills.com/Notes-From-NATS-Keynot/)
+- [The Procedural Tools Used to Make Far Cry 5](https://christianjmills.com/Procedural-World-Generation-Far-Cry-5/)
+- [Notes From NATS Keynote](https://christianjmills.com/Notes-From-NATS-Keynote/)
+- [Notes From How A.I. Will Change the 3d Industry](https://christianjmills.com/Notes-From-How-AI-Will-Change-The-3D-Industry/)
 - [Customizing Your GitHub Profile](https://christianjmills.com/Customizing-Your-GitHub-Profile/)
 - [OpenVINO Object Detection in Unity Using the In-Game Camera](https://christianjmills.com/OpenVINO-Object-Detection-for-Unity-Tutorial-In-Game-Camera/)
-- [OpenVINO Object Detection in the Unity Editor](https://christianjmills.com/OpenVINO-Object-Detection-for-Unity-Tutorial-In-Editor/)
-- [OpenVINO Object Detection for Unity Tutorial Pt.3](https://christianjmills.com/OpenVINO-Object-Detection-for-Unity-Tutorial-3/)
 <!-- BLOG-POST-LIST:END -->
 
 
