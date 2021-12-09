@@ -38,11 +38,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes From NATS Keynote](https://christianjmills.com/Notes-From-NATS-Keynot/)
 - [Customizing Your GitHub Profile](https://christianjmills.com/Customizing-Your-GitHub-Profile/)
 - [OpenVINO Object Detection in Unity Using the In-Game Camera](https://christianjmills.com/OpenVINO-Object-Detection-for-Unity-Tutorial-In-Game-Camera/)
 - [OpenVINO Object Detection in the Unity Editor](https://christianjmills.com/OpenVINO-Object-Detection-for-Unity-Tutorial-In-Editor/)
 - [OpenVINO Object Detection for Unity Tutorial Pt.3](https://christianjmills.com/OpenVINO-Object-Detection-for-Unity-Tutorial-3/)
-- [OpenVINO Object Detection for Unity Tutorial Pt.2](https://christianjmills.com/OpenVINO-Object-Detection-for-Unity-Tutorial-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
