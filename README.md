@@ -38,11 +38,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes on StyleGANv2](https://christianjmills.com/Notes-on-StyleGANv2/)
 - [Notes on the Procedural Tools Used to Make Far Cry 5](https://christianjmills.com/Notes-on-the-Procedural-Tools-Used-to-Make-Far-Cry-5/)
 - [Notes on Procedural Map Generation Techniques](https://christianjmills.com/Notes-on-Procedural-Map-Generation-Techniques/)
 - [Notes on NATS Keynote](https://christianjmills.com/Notes-on-NATS-Keynote/)
 - [Notes on Machine Learning and Level Generation](https://christianjmills.com/Notes-on-Machine-Learning-and-Level-Generation/)
-- [Notes on Learning Generative Models of 3D Structures](https://christianjmills.com/Notes-on-Learning-Generative-Models-of-3D-Structures/)
 <!-- BLOG-POST-LIST:END -->
 
 
