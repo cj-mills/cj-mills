@@ -42,7 +42,7 @@
 - [Notes on Writing Resumes for Software Developer Jobs](https://christianjmills.com/Notes-on-Writing-Resumes-for-Software-Developer-Jobs/)
 - [Notes on StyleGANv2](https://christianjmills.com/Notes-on-StyleGANv2/)
 - [Notes on Making Money as a Freelance Developer](https://christianjmills.com/Notes-on-Making-Money-as-a-Freelance-Developer/)
-- [Notes on Finding Software Engineering Job Openings](https://christianjmills.com/Notes-on-Finding-Software-Engineering-Job-Openings/)
+- [Notes on Getting Your First Tech Job](https://christianjmills.com/Notes-on-Getting-Your-First-Tech-Job/)
 <!-- BLOG-POST-LIST:END -->
 
 
