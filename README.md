@@ -38,11 +38,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Notes on the Behavioral Aspect of Technical Interviews](https://christianjmills.com/Notes-on-the-Behavioral-Aspect-of-Technical-Interviews/)
-- [Notes on Writing Resumes for Software Developer Jobs](https://christianjmills.com/Notes-on-Writing-Resumes-for-Software-Developer-Jobs/)
-- [Notes on StyleGANv2](https://christianjmills.com/Notes-on-StyleGANv2/)
-- [Notes on Making Money as a Freelance Developer](https://christianjmills.com/Notes-on-Making-Money-as-a-Freelance-Developer/)
-- [Notes on Getting Your First Tech Job](https://christianjmills.com/Notes-on-Getting-Your-First-Tech-Job/)
+- [Notes on Practical Procedural Generation](https://christianjmills.com/Notes-on-Practical-Procedural-Generation/)
+- [Notes on How to Teach 5 Semesters of Game Design in 1 Class](https://christianjmills.com/Notes-on-How-to-Teach-5-Semesters-of-Game-Design-in-1-Class/)
+- [Notes on 1D Nonlinear Transformations for Games](https://christianjmills.com/Notes-on-1D-Nonlinear-Transformations-for-Games/)
+- [Notes on WaveFunctionCollapse for 3D](https://christianjmills.com/Notes-on-WaveFunctionCollapse-for-3D/)
+- [Notes on Dungeon Generation via WaveFunctionCollapse](https://christianjmills.com/Notes-on-Dungeon-Generation-via-WaveFunctionCollapse/)
 <!-- BLOG-POST-LIST:END -->
 
 
