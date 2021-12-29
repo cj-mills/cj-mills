@@ -39,10 +39,10 @@
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Notes on Version Control](https://christianjmills.com/Notes-on-Version-Control/)
+- [Notes on Regular Expressions in JavaScript](https://christianjmills.com/Notes-on-Regex-in-JavaScript/)
 - [Notes on Practical Procedural Generation](https://christianjmills.com/Notes-on-Practical-Procedural-Generation/)
+- [Notes on NumPy](https://christianjmills.com/Notes-on-NumPy/)
 - [Notes on How to Teach 5 Semesters of Game Design in 1 Class](https://christianjmills.com/Notes-on-How-to-Teach-5-Semesters-of-Game-Design-in-1-Class/)
-- [Notes on Git Branches](https://christianjmills.com/Notes-on-Git-Branches/)
-- [Notes on Advanced Git Tools](https://christianjmills.com/Notes-on-Advanced-Git-Tools/)
 <!-- BLOG-POST-LIST:END -->
 
 
