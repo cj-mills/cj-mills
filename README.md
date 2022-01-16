@@ -38,11 +38,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes on OpenCV Fundamentals](https://christianjmills.com/Notes-on-OpenCV-Fundamentals/)
 - [Notes on Foundational Blockchain Concepts](https://christianjmills.com/Notes-on-Foundational-Blockchain-Concepts/)
 - [Notes on the Streamlit API](https://christianjmills.com/Notes-on-Streamlit-API/)
 - [Notes on Creating Data Science Apps With Streamlit](https://christianjmills.com/Notes-on-Creating-Data-Science-Apps-With-Streamlit/)
 - [Notes on Game Design and Web3 Potential](https://christianjmills.com/Notes-on-Game-Design-and-Web3-Potential/)
-- [Notes on Backtracking Problems in Python](https://christianjmills.com/Notes-on-Backtracking-Problems-in-Python/)
 <!-- BLOG-POST-LIST:END -->
 
 
