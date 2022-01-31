@@ -1,7 +1,7 @@
 ### Hi there, I'm C.J. - [christianjmills.com](https://www.christianjmills.com) 👋
 
 ### 🌱 I’m currently learning:
-* ### [Solidity]
+* ### [FastAPI]
 
 ### ⚡ Fun fact: Currently open to work
 
@@ -85,6 +85,7 @@
 
 [bash]: https://www.gnu.org/software/bash/
 [solidity]: https://soliditylang.org/
+[FastAPI]: https://fastapi.tiangolo.com/
 
 <!--
 **cj-mills/cj-mills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
