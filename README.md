@@ -1,7 +1,7 @@
 ### Hi there, I'm C.J. - [christianjmills.com](https://www.christianjmills.com) 👋
 
 ### 🌱 I’m currently learning:
-* ### [FastAPI]
+** ### [FastAPI]
 
 ### ⚡ Fun fact: Currently open to work
 
