@@ -38,11 +38,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Notes on fastai Book Ch. 1](https://christianjmills.com/Notes-on-Fastai-Book-1/)
-- [Barracuda PoseNet WebGL Tutorial](https://christianjmills.com/Barracuda-PoseNet-WebGL-Tutorial/)
-- [Notes on OpenCV Fundamentals](https://christianjmills.com/Notes-on-OpenCV-Fundamentals/)
-- [Notes on Foundational Blockchain Concepts](https://christianjmills.com/Notes-on-Foundational-Blockchain-Concepts/)
-- [Notes on the Streamlit API](https://christianjmills.com/Notes-on-Streamlit-API/)
+- [Notes on fastai Book Ch. 7](https://christianjmills.com/Notes-on-Fastai-Book-7/)
+- [Notes on fastai Book Ch. 6](https://christianjmills.com/Notes-on-Fastai-Book-6/)
+- [Notes on fastai Book Ch. 5](https://christianjmills.com/Notes-on-Fastai-Book-5/)
+- [Notes on fastai Book Ch. 4](https://christianjmills.com/Notes-on-Fastai-Book-4/)
+- [Notes on fastai Book Ch. 3](https://christianjmills.com/Notes-on-Fastai-Book-3/)
 <!-- BLOG-POST-LIST:END -->
 
 
