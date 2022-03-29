@@ -36,10 +36,10 @@
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Notes on fastai Book Ch. 9](https://christianjmills.com/Notes-on-Fastai-Book-9/)
+- [Notes on fastai Book Ch. 15](https://christianjmills.com/Notes-on-Fastai-Book-15/)
+- [Notes on fastai Book Ch. 14](https://christianjmills.com/Notes-on-Fastai-Book-14/)
+- [Notes on fastai Book Ch. 13](https://christianjmills.com/Notes-on-Fastai-Book-13/)
 - [Notes on fastai Book Ch. 12](https://christianjmills.com/Notes-on-Fastai-Book-12/)
-- [Notes on fastai Book Ch. 11](https://christianjmills.com/Notes-on-Fastai-Book-11/)
-- [Notes on fastai Book Ch. 10](https://christianjmills.com/Notes-on-Fastai-Book-10/)
-- [Notes on fastai Book Ch. 8](https://christianjmills.com/Notes-on-Fastai-Book-8/)
 <!-- BLOG-POST-LIST:END -->
 
 
