@@ -35,8 +35,8 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Notes on Transformers Book Ch. 1](https://christianjmills.com/Notes-on-Transformers-Book-1/)
-- [Notes on fastai Book Ch. 9](https://christianjmills.com/Notes-on-Fastai-Book-9/)
+- [Notes on Transformers Book Ch. 2](https://christianjmills.com/Notes-on-Transformers-Book-02/)
+- [Notes on Transformers Book Ch. 1](https://christianjmills.com/Notes-on-Transformers-Book-01/)
 - [Notes on fastai Book Ch. 19](https://christianjmills.com/Notes-on-Fastai-Book-19/)
 - [Notes on fastai Book Ch. 18](https://christianjmills.com/Notes-on-Fastai-Book-18/)
 - [Notes on fastai Book Ch. 17](https://christianjmills.com/Notes-on-Fastai-Book-17/)
