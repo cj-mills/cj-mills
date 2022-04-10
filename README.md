@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes on Transformers Book Ch. 6](https://christianjmills.com/Notes-on-Transformers-Book-06/)
 - [Notes on Transformers Book Ch. 5](https://christianjmills.com/Notes-on-Transformers-Book-05/)
 - [Notes on Transformers Book Ch. 4](https://christianjmills.com/Notes-on-Transformers-Book-04/)
 - [Notes on Transformers Book Ch. 3](https://christianjmills.com/Notes-on-Transformers-Book-03/)
 - [Notes on Transformers Book Ch. 2](https://christianjmills.com/Notes-on-Transformers-Book-02/)
-- [Notes on Transformers Book Ch. 1](https://christianjmills.com/Notes-on-Transformers-Book-01/)
 <!-- BLOG-POST-LIST:END -->
 
 
