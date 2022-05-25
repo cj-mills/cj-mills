@@ -54,9 +54,9 @@
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com/cj-mills/christianjmills/issues/20) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
-2. 🎉 Merged PR [#27](https://github.com/cj-mills/christianjmills/pull/27) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
-3. 🗣 Commented on [#4](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/issues/4) in [cj-mills/Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial)
-4. 🗣 Commented on [#22](https://github.com/cj-mills/christianjmills/issues/22) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+2. 🗣 Commented on [#20](https://github.com/cj-mills/christianjmills/issues/20) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+3. 🎉 Merged PR [#27](https://github.com/cj-mills/christianjmills/pull/27) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+4. 🗣 Commented on [#4](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/issues/4) in [cj-mills/Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial)
 5. 🗣 Commented on [#20](https://github.com/cj-mills/christianjmills/issues/20) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
 <!--END_SECTION:activity-->
 
