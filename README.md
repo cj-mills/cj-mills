@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Test Page](https://christianjmills.com/Test-Page/)
 - [Notes on No ML Degree Book](https://christianjmills.com/Notes-on-No-ML-Degree-Book/)
 - [Notes on The 🤗 Deep RL Class Pt.2](https://christianjmills.com/Notes-on-HF-Deep-Reinforcement-Learning-Class-2/)
 - [Notes on The 🤗 Deep RL Class Pt.1](https://christianjmills.com/Notes-on-HF-Deep-Reinforcement-Learning-Class-1/)
 - [Notes on Transformers Book Ch. 11](https://christianjmills.com/Notes-on-Transformers-Book-11/)
-- [Notes on Transformers Book Ch. 10](https://christianjmills.com/Notes-on-Transformers-Book-10/)
 <!-- BLOG-POST-LIST:END -->
 
 
