@@ -35,7 +35,7 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fastai to Unity Tutorial Pt. 1](https://christianjmills.com/Fastai-to-Unity-Tutorial/)
+- [Fastai to Unity Tutorial Pt. 1](https://christianjmills.com/Fastai-to-Unity-Tutorial-1/)
 - [Getting Started With Deep Learning in Unity](https://christianjmills.com/Deep-Learning-in-Unity/)
 - [Notes on No ML Degree Book](https://christianjmills.com/Notes-on-No-ML-Degree-Book/)
 - [Notes on The 🤗 Deep RL Class Pt.2](https://christianjmills.com/Notes-on-HF-Deep-Reinforcement-Learning-Class-2/)
