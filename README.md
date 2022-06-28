@@ -35,8 +35,8 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a LibTorch Plugin for Unity on Windows Pt.2](https://christianjmills.com/Fastai-to-LibTorch-to-Unity-Tutorial-Windows-2/)
-- [How to Create a LibTorch Plugin for Unity on Windows Pt.1](https://christianjmills.com/Fastai-to-LibTorch-to-Unity-Tutorial-Windows-1/)
+- [How to Create a LibTorch Plugin for Unity on Windows Pt. 2](https://christianjmills.com/Fastai-to-LibTorch-to-Unity-Tutorial-Windows-2/)
+- [How to Create a LibTorch Plugin for Unity on Windows Pt. 1](https://christianjmills.com/Fastai-to-LibTorch-to-Unity-Tutorial-Windows-1/)
 - [Fastai to Unity Beginner Tutorial Pt. 3](https://christianjmills.com/Fastai-to-Unity-Tutorial-3/)
 - [Fastai to Unity Beginner Tutorial Pt. 2](https://christianjmills.com/Fastai-to-Unity-Tutorial-2/)
 - [Fastai to Unity Beginner Tutorial Pt. 1](https://christianjmills.com/Fastai-to-Unity-Tutorial-1/)
