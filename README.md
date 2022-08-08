@@ -35,7 +35,7 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [End-to-End Object Detection for Unity With IceVision and OpenVINO Pt. 1](https://christianjmills.com/IceVision-to-OpenVINO-to-Unity-Tutorial-Windows-1/)
+- [End-to-End Object Detection for Unity With IceVision and OpenVINO Pt. 1](https://christianjmills.com/IceVision-to-OpenVINO-to-Unity-Tutorial-1/)
 - [How to Create an OpenVINO Plugin for Unity on Windows Pt. 3](https://christianjmills.com/Fastai-to-OpenVINO-to-Unity-Tutorial-Windows-3/)
 - [How to Create an OpenVINO Plugin for Unity on Windows Pt. 2](https://christianjmills.com/Fastai-to-OpenVINO-to-Unity-Tutorial-Windows-2/)
 - [How to Create an OpenVINO Plugin for Unity on Windows Pt. 1](https://christianjmills.com/Fastai-to-OpenVINO-to-Unity-Tutorial-Windows-1/)
