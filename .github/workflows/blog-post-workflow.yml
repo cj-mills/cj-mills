@@ -15,4 +15,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://christianjmills.com/index.xml"
-          template: "- [$title](https://$url)\n"
