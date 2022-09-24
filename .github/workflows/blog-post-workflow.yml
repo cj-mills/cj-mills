@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in personal blog posts
-        uses: cj-mills/blog-post-workflow@master
+        uses: cj-mills/blog-post-workflow@maste
         with:
           feed_list: "https://christianjmills.com/index.xml"
