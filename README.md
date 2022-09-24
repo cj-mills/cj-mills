@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Object Detection for Unity With ONNX Runtime and DirectML Pt. 2](christianjmills.com/posts/onnx-directml-unity-tutorial/part-2/index.html)
-- [Object Detection for Unity With ONNX Runtime and DirectML Pt. 1](christianjmills.com/posts/onnx-directml-unity-tutorial/part-1/index.html)
-- [End-to-End Object Detection for Unity With IceVision and OpenVINO Pt. 3](christianjmills.com/posts/icevision-openvino-unity-tutorial/part-3/index.html)
-- [End-to-End Object Detection for Unity With IceVision and OpenVINO Pt. 2](christianjmills.com/posts/icevision-openvino-unity-tutorial/part-2/index.html)
-- [End-to-End Object Detection for Unity With IceVision and OpenVINO Pt. 1](christianjmills.com/posts/icevision-openvino-unity-tutorial/part-1/index.html)
+- [Object Detection for Unity With ONNX Runtime and DirectML Pt. 2](https://christianjmills.com/posts/onnx-directml-unity-tutorial/part-2/index.html)
+- [Object Detection for Unity With ONNX Runtime and DirectML Pt. 1](https://christianjmills.com/posts/onnx-directml-unity-tutorial/part-1/index.html)
+- [End-to-End Object Detection for Unity With IceVision and OpenVINO Pt. 3](https://christianjmills.com/posts/icevision-openvino-unity-tutorial/part-3/index.html)
+- [End-to-End Object Detection for Unity With IceVision and OpenVINO Pt. 2](https://christianjmills.com/posts/icevision-openvino-unity-tutorial/part-2/index.html)
+- [End-to-End Object Detection for Unity With IceVision and OpenVINO Pt. 1](https://christianjmills.com/posts/icevision-openvino-unity-tutorial/part-1/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 
