@@ -53,7 +53,7 @@
 ---
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/cj-mills/christianjmills/issues/32) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+1. 🗣 Commented on [#1](https://github.com/cj-mills/icevision-openvino-unity-tutorial/issues/1) in [cj-mills/icevision-openvino-unity-tutorial](https://github.com/cj-mills/icevision-openvino-unity-tutorial)
 2. 🗣 Commented on [#24](https://github.com/cj-mills/christianjmills/issues/24) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
 3. 🎉 Merged PR [#30](https://github.com/cj-mills/christianjmills/pull/30) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
 4. 🎉 Merged PR [#27](https://github.com/cj-mills/christianjmills/pull/27) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
