@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [In-Browser Object Detection for Unity with TensorFlow.js](https://christianjmills.com/posts/tfjs-yolox-unity-tutorial/index.html)
 - [In-Browser Hand Gesture Recognition for Unity with Fastai and TensorFlow.js Pt. 3](https://christianjmills.com/posts/tensorflow-js-unity-tutorial/part-3/index.html)
 - [In-Browser Hand Gesture Recognition for Unity with Fastai and TensorFlow.js Pt. 2](https://christianjmills.com/posts/tensorflow-js-unity-tutorial/part-2/index.html)
 - [In-Browser Hand Gesture Recognition for Unity with Fastai and TensorFlow.js Pt. 1](https://christianjmills.com/posts/tensorflow-js-unity-tutorial/part-1/index.html)
 - [Object Detection for Unity With ONNX Runtime and DirectML Pt. 2](https://christianjmills.com/posts/onnx-directml-unity-tutorial/part-2/index.html)
-- [Object Detection for Unity With ONNX Runtime and DirectML Pt. 1](https://christianjmills.com/posts/onnx-directml-unity-tutorial/part-1/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 
