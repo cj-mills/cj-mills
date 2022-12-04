@@ -35,7 +35,7 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Train a Mask R-CNN Model on a Custom Dataset With IceVision](https://christianjmills.com/posts/icevision-mask-rcnn-tutorial/part-1/index.html)
+- [Training a Mask R-CNN Model on a Custom Dataset With IceVision](https://christianjmills.com/posts/icevision-mask-rcnn-tutorial/part-1/index.html)
 - [Testing Intel’s Arc A770 GPU for Deep Learning Pt. 1](https://christianjmills.com/posts/arc-a770-testing/part-1/index.html)
 - [In-Browser Object Detection for Unity with TensorFlow.js](https://christianjmills.com/posts/tfjs-yolox-unity-tutorial/index.html)
 - [In-Browser Hand Gesture Recognition for Unity with Fastai and TensorFlow.js Pt. 3](https://christianjmills.com/posts/tensorflow-js-unity-tutorial/part-3/index.html)
