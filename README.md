@@ -53,9 +53,9 @@
 ---
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/cj-mills/christianjmills/issues/34) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
-2. ❗️ Closed issue [#1](https://github.com/cj-mills/tfjs-yolox-unity-tutorial/issues/1) in [cj-mills/tfjs-yolox-unity-tutorial](https://github.com/cj-mills/tfjs-yolox-unity-tutorial)
-3. 🗣 Commented on [#2](https://github.com/cj-mills/onnx-directml-unity-tutorial/issues/2) in [cj-mills/onnx-directml-unity-tutorial](https://github.com/cj-mills/onnx-directml-unity-tutorial)
+1. 🗣 Commented on [#35](https://github.com/cj-mills/christianjmills/issues/35) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+2. 🗣 Commented on [#34](https://github.com/cj-mills/christianjmills/issues/34) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+3. ❗️ Closed issue [#1](https://github.com/cj-mills/tfjs-yolox-unity-tutorial/issues/1) in [cj-mills/tfjs-yolox-unity-tutorial](https://github.com/cj-mills/tfjs-yolox-unity-tutorial)
 4. 🎉 Merged PR [#27](https://github.com/cj-mills/christianjmills/pull/27) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
 5. 🗣 Commented on [#4](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/issues/4) in [cj-mills/Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial)
 <!--END_SECTION:activity-->
