@@ -53,7 +53,7 @@
 ---
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/cj-mills/christianjmills/issues/35) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+1. 🗣 Commented on [#2](https://github.com/cj-mills/icevision-openvino-unity-tutorial/issues/2) in [cj-mills/icevision-openvino-unity-tutorial](https://github.com/cj-mills/icevision-openvino-unity-tutorial)
 2. 🗣 Commented on [#34](https://github.com/cj-mills/christianjmills/issues/34) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
 3. ❗️ Closed issue [#1](https://github.com/cj-mills/tfjs-yolox-unity-tutorial/issues/1) in [cj-mills/tfjs-yolox-unity-tutorial](https://github.com/cj-mills/tfjs-yolox-unity-tutorial)
 4. 🎉 Merged PR [#27](https://github.com/cj-mills/christianjmills/pull/27) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
