@@ -53,9 +53,9 @@
 ---
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/cj-mills/onnx-directml-unity-tutorial/issues/2) in [cj-mills/onnx-directml-unity-tutorial](https://github.com/cj-mills/onnx-directml-unity-tutorial)
-2. ❗️ Closed issue [#1](https://github.com/cj-mills/onnx-directml-unity-tutorial/issues/1) in [cj-mills/onnx-directml-unity-tutorial](https://github.com/cj-mills/onnx-directml-unity-tutorial)
-3. ❗️ Closed issue [#5](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/issues/5) in [cj-mills/Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial)
+1. ❗️ Closed issue [#1](https://github.com/cj-mills/icevision-openvino-unity-tutorial/issues/1) in [cj-mills/icevision-openvino-unity-tutorial](https://github.com/cj-mills/icevision-openvino-unity-tutorial)
+2. ❗️ Closed issue [#2](https://github.com/cj-mills/onnx-directml-unity-tutorial/issues/2) in [cj-mills/onnx-directml-unity-tutorial](https://github.com/cj-mills/onnx-directml-unity-tutorial)
+3. ❗️ Closed issue [#1](https://github.com/cj-mills/onnx-directml-unity-tutorial/issues/1) in [cj-mills/onnx-directml-unity-tutorial](https://github.com/cj-mills/onnx-directml-unity-tutorial)
 4. 🎉 Merged PR [#27](https://github.com/cj-mills/christianjmills/pull/27) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
 5. 🗣 Commented on [#4](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/issues/4) in [cj-mills/Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial)
 <!--END_SECTION:activity-->
