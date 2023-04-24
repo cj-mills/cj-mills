@@ -54,10 +54,10 @@
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/cj-mills/End-to-End-In-Game-Style-Transfer-Tutorial-Intel/issues/1) in [cj-mills/End-to-End-In-Game-Style-Transfer-Tutorial-Intel](https://github.com/cj-mills/End-to-End-In-Game-Style-Transfer-Tutorial-Intel)
-2. ❗️ Closed issue [#3](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/issues/3) in [cj-mills/Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial)
-3. ❗️ Closed issue [#4](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/issues/4) in [cj-mills/Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial)
-4. ❗️ Closed issue [#1](https://github.com/cj-mills/icevision-openvino-unity-tutorial/issues/1) in [cj-mills/icevision-openvino-unity-tutorial](https://github.com/cj-mills/icevision-openvino-unity-tutorial)
-5. ❗️ Closed issue [#2](https://github.com/cj-mills/onnx-directml-unity-tutorial/issues/2) in [cj-mills/onnx-directml-unity-tutorial](https://github.com/cj-mills/onnx-directml-unity-tutorial)
+2. 🗣 Commented on [#1](https://github.com/cj-mills/End-to-End-In-Game-Style-Transfer-Tutorial-Intel/issues/1) in [cj-mills/End-to-End-In-Game-Style-Transfer-Tutorial-Intel](https://github.com/cj-mills/End-to-End-In-Game-Style-Transfer-Tutorial-Intel)
+3. ❗️ Closed issue [#3](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/issues/3) in [cj-mills/Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial)
+4. ❗️ Closed issue [#4](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/issues/4) in [cj-mills/Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial)
+5. ❗️ Closed issue [#1](https://github.com/cj-mills/icevision-openvino-unity-tutorial/issues/1) in [cj-mills/icevision-openvino-unity-tutorial](https://github.com/cj-mills/icevision-openvino-unity-tutorial)
 <!--END_SECTION:activity-->
 
 ---
