@@ -53,11 +53,11 @@
 ---
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/cj-mills/End-to-End-In-Game-Style-Transfer-Tutorial-Intel/issues/1) in [cj-mills/End-to-End-In-Game-Style-Transfer-Tutorial-Intel](https://github.com/cj-mills/End-to-End-In-Game-Style-Transfer-Tutorial-Intel)
-2. 🗣 Commented on [#1](https://github.com/cj-mills/End-to-End-In-Game-Style-Transfer-Tutorial-Intel/issues/1) in [cj-mills/End-to-End-In-Game-Style-Transfer-Tutorial-Intel](https://github.com/cj-mills/End-to-End-In-Game-Style-Transfer-Tutorial-Intel)
-3. ❗️ Closed issue [#3](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/issues/3) in [cj-mills/Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial)
-4. ❗️ Closed issue [#4](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/issues/4) in [cj-mills/Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial)
-5. ❗️ Closed issue [#1](https://github.com/cj-mills/icevision-openvino-unity-tutorial/issues/1) in [cj-mills/icevision-openvino-unity-tutorial](https://github.com/cj-mills/icevision-openvino-unity-tutorial)
+1. ❗️ Opened issue [#10](https://github.com/cj-mills/barracuda-inference-posenet-demo/issues/10) in [cj-mills/barracuda-inference-posenet-demo](https://github.com/cj-mills/barracuda-inference-posenet-demo)
+2. ❗️ Opened issue [#9](https://github.com/cj-mills/barracuda-inference-posenet-demo/issues/9) in [cj-mills/barracuda-inference-posenet-demo](https://github.com/cj-mills/barracuda-inference-posenet-demo)
+3. ❗️ Opened issue [#8](https://github.com/cj-mills/barracuda-inference-posenet-demo/issues/8) in [cj-mills/barracuda-inference-posenet-demo](https://github.com/cj-mills/barracuda-inference-posenet-demo)
+4. ❗️ Opened issue [#7](https://github.com/cj-mills/barracuda-inference-posenet-demo/issues/7) in [cj-mills/barracuda-inference-posenet-demo](https://github.com/cj-mills/barracuda-inference-posenet-demo)
+5. ❗️ Opened issue [#6](https://github.com/cj-mills/barracuda-inference-posenet-demo/issues/6) in [cj-mills/barracuda-inference-posenet-demo](https://github.com/cj-mills/barracuda-inference-posenet-demo)
 <!--END_SECTION:activity-->
 
 ---
