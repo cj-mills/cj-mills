@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code Walkthrough: Unity Deep Learning Image Preprocessor Package](https://christianjmills.com/posts/unity-deep-learning-image-preprocessor-walkthrough/index.html)
 - [Code Walkthrough: Unity CV Image Gallery Package](https://christianjmills.com/posts/unity-cv-image-gallery-walkthrough/index.html)
 - [Code Walkthrough: Unity Media Display Package](https://christianjmills.com/posts/unity-media-display-walkthrough/index.html)
 - [Exploring the Impact of Different Image Augmentations on Hand Gesture Recognition](https://christianjmills.com/posts/miniai-data-augmentation-experiments/part-1/index.html)
 - [Training a Mask R-CNN Model on a Custom Dataset With IceVision](https://christianjmills.com/posts/icevision-mask-rcnn-tutorial/part-1/index.html)
-- [Testing Intel’s Arc A770 GPU for Deep Learning Pt. 1](https://christianjmills.com/posts/arc-a770-testing/part-1/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 
