@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code Walkthrough: Unity Barracuda Inference Image Classification Package](https://christianjmills.com/posts/unity-barracuda-inference-image-classification-walkthrough/index.html)
 - [Code Walkthrough: Unity YOLOX Utilities Package](https://christianjmills.com/posts/unity-yolox-utils-walkthrough/index.html)
 - [Code Walkthrough: Unity Bounding Box 2D Toolkit Package](https://christianjmills.com/posts/unity-bounding-box-2d-toolkit-walkthrough/index.html)
+- [Code Walkthrough: Unity Barracuda Inference Base Package](https://christianjmills.com/posts/unity-barracuda-inference-base-walkthrough/index.html)
 - [Code Walkthrough: Unity Deep Learning Image Preprocessor Package](https://christianjmills.com/posts/unity-deep-learning-image-preprocessor-walkthrough/index.html)
-- [Code Walkthrough: Unity CV Image Gallery Package](https://christianjmills.com/posts/unity-cv-image-gallery-walkthrough/index.html)
-- [Code Walkthrough: Unity Media Display Package](https://christianjmills.com/posts/unity-media-display-walkthrough/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 
