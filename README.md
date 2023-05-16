@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up a Local Python Environment with Mamba for Machine Learning Projects on Windows](https://christianjmills.com/posts/mamba-getting-started-tutorial-windows/index.html)
 - [Getting Started with Google Colab](https://christianjmills.com/posts/google-colab-getting-started-tutorial/index.html)
 - [Code Walkthrough: Unity Barracuda Inference PoseNet Package](https://christianjmills.com/posts/unity-barracuda-inference-posenet-walkthrough/index.html)
 - [Code Walkthrough: Unity Human Pose 2D Toolkit Package](https://christianjmills.com/posts/unity-human-pose-2d-toolkit-walkthrough/index.html)
 - [Code Walkthrough: Unity Barracuda Inference YOLOX Package](https://christianjmills.com/posts/unity-barracuda-inference-yolox-walkthrough/index.html)
-- [Code Walkthrough: Unity Barracuda Inference Image Classification Package](https://christianjmills.com/posts/unity-barracuda-inference-image-classification-walkthrough/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 
