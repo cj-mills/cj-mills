@@ -53,9 +53,9 @@
 ---
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/cj-mills/christianjmills/issues/34) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
-2. ❗️ Opened issue [#4](https://github.com/cj-mills/barracuda-inference-yolox-demo/issues/4) in [cj-mills/barracuda-inference-yolox-demo](https://github.com/cj-mills/barracuda-inference-yolox-demo)
-3. ❗️ Opened issue [#3](https://github.com/cj-mills/barracuda-inference-yolox-demo/issues/3) in [cj-mills/barracuda-inference-yolox-demo](https://github.com/cj-mills/barracuda-inference-yolox-demo)
+1. 🗣 Commented on [#36](https://github.com/cj-mills/christianjmills/issues/36) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+2. 🗣 Commented on [#34](https://github.com/cj-mills/christianjmills/issues/34) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+3. ❗️ Opened issue [#4](https://github.com/cj-mills/barracuda-inference-yolox-demo/issues/4) in [cj-mills/barracuda-inference-yolox-demo](https://github.com/cj-mills/barracuda-inference-yolox-demo)
 4. ❗️ Opened issue [#2](https://github.com/cj-mills/barracuda-inference-yolox-demo/issues/2) in [cj-mills/barracuda-inference-yolox-demo](https://github.com/cj-mills/barracuda-inference-yolox-demo)
 5. ❗️ Opened issue [#1](https://github.com/cj-mills/barracuda-inference-yolox-demo/issues/1) in [cj-mills/barracuda-inference-yolox-demo](https://github.com/cj-mills/barracuda-inference-yolox-demo)
 <!--END_SECTION:activity-->
