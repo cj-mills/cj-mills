@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing Intel’s Arc A770 GPU for Deep Learning Pt. 3](https://christianjmills.com/posts/arc-a770-testing/part-3/index.html)
 - [Getting Started with Intel’s PyTorch Extension for Arc GPUs on Ubuntu](https://christianjmills.com/posts/intel-pytorch-extension-tutorial/native-ubuntu/index.html)
 - [Testing Intel’s Arc A770 GPU for Deep Learning Pt. 2](https://christianjmills.com/posts/arc-a770-testing/part-2/index.html)
 - [Hands-On Hand Gesture Recognition: Fine-Tuning Image Classifiers with PyTorch and the timm library for Beginners](https://christianjmills.com/posts/pytorch-train-image-classifier-timm-hf-tutorial/index.html)
 - [How to Obtain a Kaggle API Key](https://christianjmills.com/posts/kaggle-obtain-api-key-tutorial/index.html)
-- [Setting Up a Local Python Environment with Mamba for Machine Learning Projects on Windows](https://christianjmills.com/posts/mamba-getting-started-tutorial-windows/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 
