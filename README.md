@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exporting timm Image Classifiers from Pytorch to ONNX](https://christianjmills.com/posts/pytorch-train-image-classifier-timm-hf-tutorial/onnx-export/index.html)
 - [Exporting YOLOX Models from PyTorch to ONNX](https://christianjmills.com/posts/pytorch-train-object-detector-yolox-tutorial/onnx-export/index.html)
 - [Training YOLOX Models for Real-Time Object Detection in Pytorch](https://christianjmills.com/posts/pytorch-train-object-detector-yolox-tutorial/index.html)
 - [Testing Intel’s Arc A770 GPU for Deep Learning Pt. 3](https://christianjmills.com/posts/arc-a770-testing/part-3/index.html)
 - [Getting Started with Intel’s PyTorch Extension for Arc GPUs on Ubuntu](https://christianjmills.com/posts/intel-pytorch-extension-tutorial/native-ubuntu/index.html)
-- [Testing Intel’s Arc A770 GPU for Deep Learning Pt. 2](https://christianjmills.com/posts/arc-a770-testing/part-2/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 
