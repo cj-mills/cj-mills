@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exporting YOLOX Models from PyTorch to TensorFlow.js](https://christianjmills.com/posts/pytorch-train-object-detector-yolox-tutorial/tfjs-export/index.html)
 - [Exporting Mask R-CNN Models from PyTorch to ONNX](https://christianjmills.com/posts/pytorch-train-mask-rcnn-tutorial/onnx-export/index.html)
 - [Training Mask R-CNN Models with PyTorch](https://christianjmills.com/posts/pytorch-train-mask-rcnn-tutorial/index.html)
 - [Testing Intel’s Arc A770 GPU for Deep Learning Pt. 4](https://christianjmills.com/posts/arc-a770-testing/part-4/index.html)
 - [Getting Started with Intel’s PyTorch Extension for Arc GPUs on Windows](https://christianjmills.com/posts/intel-pytorch-extension-tutorial/native-windows/index.html)
-- [Getting Started with Intel’s PyTorch Extension for Arc GPUs on Ubuntu](https://christianjmills.com/posts/intel-pytorch-extension-tutorial/native-ubuntu/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 
