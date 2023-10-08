@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exporting timm Image Classifiers from Fastai to TorchScript](https://christianjmills.com/posts/fastai-train-image-classifier-timm-tutorial/torchscript-export/index.html)
 - [Exporting timm Image Classifiers from Fastai to ONNX](https://christianjmills.com/posts/fastai-train-image-classifier-timm-tutorial/onnx-export/index.html)
 - [Fine-Tuning Image Classifiers with Fastai and the timm library for Beginners](https://christianjmills.com/posts/fastai-train-image-classifier-timm-tutorial/index.html)
 - [Exporting YOLOX Models from PyTorch to TensorFlow.js](https://christianjmills.com/posts/pytorch-train-object-detector-yolox-tutorial/tfjs-export/index.html)
 - [Exporting Mask R-CNN Models from PyTorch to ONNX](https://christianjmills.com/posts/pytorch-train-mask-rcnn-tutorial/onnx-export/index.html)
-- [Training Mask R-CNN Models with PyTorch](https://christianjmills.com/posts/pytorch-train-mask-rcnn-tutorial/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 
