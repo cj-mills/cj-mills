@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Real-Time Object Tracking with YOLOX and ByteTrack](https://christianjmills.com/posts/pytorch-train-object-detector-yolox-tutorial/byte-track/index.html)
 - [Real-Time Object Detection in Unity with ONNX Runtime and DirectML](https://christianjmills.com/posts/unity-onnxruntime-cv-plugin-tutorial/unity-integration/index.html)
 - [Building a Computer Vision Plugin for Unity with ONNX Runtime](https://christianjmills.com/posts/unity-onnxruntime-cv-plugin-tutorial/index.html)
 - [Integrating OpenCV with Visual Studio C++ Projects on Windows](https://christianjmills.com/posts/opencv-visual-studio-getting-started-tutorial/windows/index.html)
 - [Exporting timm Image Classifiers from Fastai to TorchScript](https://christianjmills.com/posts/fastai-train-image-classifier-timm-tutorial/torchscript-export/index.html)
-- [Exporting timm Image Classifiers from Fastai to ONNX](https://christianjmills.com/posts/fastai-train-image-classifier-timm-tutorial/onnx-export/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 
