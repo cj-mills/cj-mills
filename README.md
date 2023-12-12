@@ -53,11 +53,11 @@
 ---
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/cj-mills/christianjmills/issues/44#issuecomment-1846349973) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
-2. 🗣 Commented on [#6](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/issues/6#issuecomment-1819627648) in [cj-mills/Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial)
-3. 🚀 Published release [ByteTrack-Eigen 2.0.0](https://github.com/cj-mills/byte-track-eigen/releases/tag/2.0.0) in [cj-mills/byte-track-eigen](https://github.com/cj-mills/byte-track-eigen)
-4. 🚀 Published release [ByteTrack-Eigen 1.0.0](https://github.com/cj-mills/byte-track-eigen/releases/tag/1.0.0) in [cj-mills/byte-track-eigen](https://github.com/cj-mills/byte-track-eigen)
-5. 🗣 Commented on [#42](https://github.com/cj-mills/christianjmills/issues/42#issuecomment-1774160099) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+1. 🗣 Commented on [#44](https://github.com/cj-mills/christianjmills/issues/44#issuecomment-1852609399) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+2. 🗣 Commented on [#44](https://github.com/cj-mills/christianjmills/issues/44#issuecomment-1852608462) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+3. 🗣 Commented on [#44](https://github.com/cj-mills/christianjmills/issues/44#issuecomment-1846349973) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+4. 🗣 Commented on [#6](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/issues/6#issuecomment-1819627648) in [cj-mills/Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial)
+5. 🚀 Published release [ByteTrack-Eigen 2.0.0](https://github.com/cj-mills/byte-track-eigen/releases/tag/2.0.0) in [cj-mills/byte-track-eigen](https://github.com/cj-mills/byte-track-eigen)
 <!--END_SECTION:activity-->
 
 ---
