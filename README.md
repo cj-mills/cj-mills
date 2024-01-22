@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chip War Part 8: The Chip Choke](https://christianjmills.com/posts/chip-war-book-notes/part-8/index.html)
-- [Chip War Part 7: China’s Challenge](https://christianjmills.com/posts/chip-war-book-notes/part-7/index.html)
-- [Chip War Part 6: Offshore Innovation?](https://christianjmills.com/posts/chip-war-book-notes/part-6/index.html)
-- [Chip War Part 5: Integrated Circuits, Integrated World?](https://christianjmills.com/posts/chip-war-book-notes/part-5/index.html)
-- [Chip War Part 4: America Resurgent](https://christianjmills.com/posts/chip-war-book-notes/part-4/index.html)
+- [Working with LabelMe Segmentation Annotations in Torchvision](https://christianjmills.com/posts/torchvision-labelme-annotation-tutorials/segmentation-polygons/)
+- [Working with LabelMe Keypoint Annotations in Torchvision](https://christianjmills.com/posts/torchvision-labelme-annotation-tutorials/keypoints/)
+- [Working with LabelMe Bounding Box Annotations in Torchvision](https://christianjmills.com/posts/torchvision-labelme-annotation-tutorials/bounding-boxes/)
+- [Working with CVAT Segmentation Annotations in Torchvision](https://christianjmills.com/posts/torchvision-cvat-annotation-tutorials/segmentation-polygons/)
+- [Working with CVAT Keypoint Annotations in Torchvision](https://christianjmills.com/posts/torchvision-cvat-annotation-tutorials/keypoints/)
 <!-- BLOG-POST-LIST:END -->
 
 
