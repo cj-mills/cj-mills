@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create Custom Torchvision V2 Transforms](https://christianjmills.com/posts/torchvision-custom-v2-transform-tutorial/)
 - [Working with LabelMe Segmentation Annotations in Torchvision](https://christianjmills.com/posts/torchvision-labelme-annotation-tutorials/segmentation-polygons/)
 - [Working with LabelMe Keypoint Annotations in Torchvision](https://christianjmills.com/posts/torchvision-labelme-annotation-tutorials/keypoints/)
 - [Working with LabelMe Bounding Box Annotations in Torchvision](https://christianjmills.com/posts/torchvision-labelme-annotation-tutorials/bounding-boxes/)
 - [Working with CVAT Segmentation Annotations in Torchvision](https://christianjmills.com/posts/torchvision-cvat-annotation-tutorials/segmentation-polygons/)
-- [Working with CVAT Keypoint Annotations in Torchvision](https://christianjmills.com/posts/torchvision-cvat-annotation-tutorials/keypoints/)
 <!-- BLOG-POST-LIST:END -->
 
 
