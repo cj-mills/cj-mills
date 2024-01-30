@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Training Keypoint R-CNN Models with PyTorch](https://christianjmills.com/posts/pytorch-train-keypoint-rcnn-tutorial/)
 - [How to Create Custom Torchvision V2 Transforms](https://christianjmills.com/posts/torchvision-custom-v2-transform-tutorial/)
 - [Working with LabelMe Segmentation Annotations in Torchvision](https://christianjmills.com/posts/torchvision-labelme-annotation-tutorials/segmentation-polygons/)
 - [Working with LabelMe Keypoint Annotations in Torchvision](https://christianjmills.com/posts/torchvision-labelme-annotation-tutorials/keypoints/)
 - [Working with LabelMe Bounding Box Annotations in Torchvision](https://christianjmills.com/posts/torchvision-labelme-annotation-tutorials/bounding-boxes/)
-- [Working with CVAT Segmentation Annotations in Torchvision](https://christianjmills.com/posts/torchvision-cvat-annotation-tutorials/segmentation-polygons/)
 <!-- BLOG-POST-LIST:END -->
 
 
