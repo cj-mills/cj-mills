@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes on Where is My Flying Car Pt. 03](https://christianjmills.com/posts/where-is-my-flying-car-book-notes/part-3/)
+- [Notes on Where is My Flying Car Pt. 02](https://christianjmills.com/posts/where-is-my-flying-car-book-notes/part-2/)
+- [Notes on Where is My Flying Car Pt. 01](https://christianjmills.com/posts/where-is-my-flying-car-book-notes/part-1/)
+- [Notes on The Path of Least Resistance](https://christianjmills.com/posts/the-path-of-least-resistance-book-notes/)
 - [Exporting Keypoint R-CNN Models from PyTorch to ONNX](https://christianjmills.com/posts/pytorch-train-keypoint-rcnn-tutorial/onnx-export/)
-- [Training Keypoint R-CNN Models with PyTorch](https://christianjmills.com/posts/pytorch-train-keypoint-rcnn-tutorial/)
-- [How to Create Custom Torchvision V2 Transforms](https://christianjmills.com/posts/torchvision-custom-v2-transform-tutorial/)
-- [Working with LabelMe Segmentation Annotations in Torchvision](https://christianjmills.com/posts/torchvision-labelme-annotation-tutorials/segmentation-polygons/)
-- [Working with LabelMe Keypoint Annotations in Torchvision](https://christianjmills.com/posts/torchvision-labelme-annotation-tutorials/keypoints/)
 <!-- BLOG-POST-LIST:END -->
 
 
