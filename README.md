@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes on Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling](https://christianjmills.com/posts/dumbing-us-down-book-notes/)
 - [Setting Up CUDA for Python on Ubuntu](https://christianjmills.com/posts/cuda-python-setup-tutorial/ubuntu/)
 - [Notes on Why Greatness Cannot Be Planned](https://christianjmills.com/posts/why-greatness-cannot-be-planned-book-notes/)
 - [Notes on Where is My Flying Car Pt. 03](https://christianjmills.com/posts/where-is-my-flying-car-book-notes/part-3/)
 - [Notes on Where is My Flying Car Pt. 02](https://christianjmills.com/posts/where-is-my-flying-car-book-notes/part-2/)
-- [Notes on Where is My Flying Car Pt. 01](https://christianjmills.com/posts/where-is-my-flying-car-book-notes/part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 
