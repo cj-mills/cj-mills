@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Quantizing timm Image Classifiers with ONNX Runtime and TensorRT in Ubuntu](https://christianjmills.com/posts/pytorch-train-image-classifier-timm-hf-tutorial/ort-tensorrt-ubuntu/)
 - [Quantizing YOLOX with ONNX Runtime and TensorRT in Ubuntu](https://christianjmills.com/posts/pytorch-train-object-detector-yolox-tutorial/ort-tensorrt-ubuntu/)
 - [Notes on Weapons of Mass Instruction: A Schoolteacher’s Journey Through the Dark World of Compulsory Schooling](https://christianjmills.com/posts/weapons-of-mass-instruction-book-notes/)
 - [Notes on Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling](https://christianjmills.com/posts/dumbing-us-down-book-notes/)
 - [Setting Up CUDA for Python on Ubuntu](https://christianjmills.com/posts/cuda-python-setup-tutorial/ubuntu/)
-- [Notes on Why Greatness Cannot Be Planned](https://christianjmills.com/posts/why-greatness-cannot-be-planned-book-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 
