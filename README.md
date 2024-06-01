@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fine-Tuning Workshop 1: When and Why to Fine-Tune an LLM](https://christianjmills.com/posts/mastering-llms-course-notes/workshop-001/)
+- [CUDA MODE Lecture 1 : How to profile CUDA kernels in PyTorch](https://christianjmills.com/posts/cuda-mode-notes/lecture-001/)
 - [Quantizing timm Image Classifiers with ONNX Runtime and TensorRT in Ubuntu](https://christianjmills.com/posts/pytorch-train-image-classifier-timm-hf-tutorial/ort-tensorrt-ubuntu/)
 - [Quantizing YOLOX with ONNX Runtime and TensorRT in Ubuntu](https://christianjmills.com/posts/pytorch-train-object-detector-yolox-tutorial/ort-tensorrt-ubuntu/)
 - [Notes on Weapons of Mass Instruction: A Schoolteacher’s Journey Through the Dark World of Compulsory Schooling](https://christianjmills.com/posts/weapons-of-mass-instruction-book-notes/)
-- [Notes on Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling](https://christianjmills.com/posts/dumbing-us-down-book-notes/)
-- [Setting Up CUDA for Python on Ubuntu](https://christianjmills.com/posts/cuda-python-setup-tutorial/ubuntu/)
 <!-- BLOG-POST-LIST:END -->
 
 
