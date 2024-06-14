@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Office Hours 3: Gradio Q&amp;A Session with Freddy Boulton](https://christianjmills.com/posts/mastering-llms-course-notes/office-hourse-003/)
 - [Office Hours 2: Q&amp;A Session with Zach Mueller](https://christianjmills.com/posts/mastering-llms-course-notes/office-hourse-002/)
 - [Office Hours 1: Axolotl Q&amp;A with Wing Lian](https://christianjmills.com/posts/mastering-llms-course-notes/office-hourse-001/)
 - [Conference Talk 1: Ten Commandments to Deploy Fine-Tuned Models in Production](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-001/)
 - [Fine-Tuning Workshop 2: Fine-Tuning with Axolotl](https://christianjmills.com/posts/mastering-llms-course-notes/workshop-002/)
-- [CUDA MODE Lecture 2 : Ch.1-3 PMPP Book](https://christianjmills.com/posts/cuda-mode-notes/lecture-002/)
 <!-- BLOG-POST-LIST:END -->
 
 
