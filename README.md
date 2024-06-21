@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Workshop 3: Instrumenting &amp; Evaluating LLMs](https://christianjmills.com/posts/mastering-llms-course-notes/workshop-003/)
 - [Office Hours 3: Gradio Q&amp;A Session with Freddy Boulton](https://christianjmills.com/posts/mastering-llms-course-notes/office-hourse-003/)
 - [Office Hours 2: Q&amp;A Session with Zach Mueller](https://christianjmills.com/posts/mastering-llms-course-notes/office-hourse-002/)
 - [Office Hours 1: Axolotl Q&amp;A with Wing Lian](https://christianjmills.com/posts/mastering-llms-course-notes/office-hourse-001/)
 - [Conference Talk 1: Ten Commandments to Deploy Fine-Tuned Models in Production](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-001/)
-- [Fine-Tuning Workshop 2: Fine-Tuning with Axolotl](https://christianjmills.com/posts/mastering-llms-course-notes/workshop-002/)
 <!-- BLOG-POST-LIST:END -->
 
 
