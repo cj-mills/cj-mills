@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Conference Talk 3: Prompt Engineering Workshop](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-003/)
 - [Conference Talk 2: LLM Eval For Text2SQL](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-002/)
 - [Workshop 3: Instrumenting &amp; Evaluating LLMs](https://christianjmills.com/posts/mastering-llms-course-notes/workshop-003/)
 - [Office Hours 3: Gradio Q&amp;A Session with Freddy Boulton](https://christianjmills.com/posts/mastering-llms-course-notes/office-hourse-003/)
 - [Office Hours 2: Q&amp;A Session with Zach Mueller](https://christianjmills.com/posts/mastering-llms-course-notes/office-hourse-002/)
-- [Office Hours 1: Axolotl Q&amp;A with Wing Lian](https://christianjmills.com/posts/mastering-llms-course-notes/office-hourse-001/)
 <!-- BLOG-POST-LIST:END -->
 
 
