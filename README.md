@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Office Hours 4: Modal with Charles Frye](https://christianjmills.com/posts/mastering-llms-course-notes/office-hourse-004/)
 - [Conference Talk 4: Inspect - An OSS Framework for LLM Evals](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-004/)
 - [Conference Talk 3: Prompt Engineering Workshop](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-003/)
 - [Conference Talk 2: LLM Eval For Text2SQL](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-002/)
 - [Workshop 3: Instrumenting &amp; Evaluating LLMs](https://christianjmills.com/posts/mastering-llms-course-notes/workshop-003/)
-- [Office Hours 3: Gradio Q&amp;A Session with Freddy Boulton](https://christianjmills.com/posts/mastering-llms-course-notes/office-hourse-003/)
 <!-- BLOG-POST-LIST:END -->
 
 
