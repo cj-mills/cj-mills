@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Office Hours 6: Johno Whitaker](https://christianjmills.com/posts/mastering-llms-course-notes/office-hours-006/)
 - [Conference Talk 5: Napkin Math For Fine Tuning with Johno Whitaker](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-005/)
-- [Office Hours 5: LangChain/LangSmith](https://christianjmills.com/posts/mastering-llms-course-notes/office-hourse-005/)
-- [Office Hours 4: Modal with Charles Frye](https://christianjmills.com/posts/mastering-llms-course-notes/office-hourse-004/)
+- [Office Hours 5: LangChain/LangSmith](https://christianjmills.com/posts/mastering-llms-course-notes/office-hours-005/)
+- [Office Hours 4: Modal with Charles Frye](https://christianjmills.com/posts/mastering-llms-course-notes/office-hours-004/)
 - [Conference Talk 4: Inspect - An OSS Framework for LLM Evals](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-004/)
-- [Conference Talk 3: Prompt Engineering Workshop](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-003/)
 <!-- BLOG-POST-LIST:END -->
 
 
