@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Conference Talk 9: Why Fine-Tuning is Dead](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-009/)
 - [Conference Talk 8: Creating, curating, and cleaning data for LLMs](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-008/)
 - [Conference Talk 7: Best Practices For Fine Tuning Mistral](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-007/)
 - [Workshop 4: Instrumenting &amp; Evaluating LLMs](https://christianjmills.com/posts/mastering-llms-course-notes/workshop-004/)
 - [Conference Talk 6: Train Almost Any LLM Model Using 🤗 autotrain](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-006/)
-- [Office Hours 6: Johno Whitaker](https://christianjmills.com/posts/mastering-llms-course-notes/office-hours-006/)
 <!-- BLOG-POST-LIST:END -->
 
 
