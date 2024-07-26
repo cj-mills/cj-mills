@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Conference Talk 13: When to Fine-Tune with Paige Bailey](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-013/)
-- [Conference Talk 12: Slaying OOMs with PyTorch FSDP and torchao](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-012/)
-- [Conference Talk 10: Systematically Improving RAG Applications](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-010/)
-- [Conference Talk 9: Why Fine-Tuning is Dead](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-009/)
-- [Conference Talk 8: Creating, curating, and cleaning data for LLMs](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-008/)
+- [Conference Talk 13: When to Fine-Tune with Paige Bailey](https://https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-013/)
+- [Conference Talk 12: Slaying OOMs with PyTorch FSDP and torchao](https://https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-012/)
+- [Conference Talk 10: Systematically Improving RAG Applications](https://https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-010/)
+- [Conference Talk 9: Why Fine-Tuning is Dead](https://https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-009/)
+- [Conference Talk 8: Creating, curating, and cleaning data for LLMs](https://https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-008/)
 <!-- BLOG-POST-LIST:END -->
 
 
