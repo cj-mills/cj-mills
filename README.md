@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes on Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling](https://https://christianjmills.com/posts/dumbing-us-down-book-notes/)
 - [Conference Talk 14: Explaining the Basics of Retrieval Augmented Generation](https://https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-014/)
 - [Conference Talk 13: When to Fine-Tune with Paige Bailey](https://https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-013/)
 - [Conference Talk 12: Slaying OOMs with PyTorch FSDP and torchao](https://https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-012/)
 - [Conference Talk 10: Systematically Improving RAG Applications](https://https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-010/)
-- [Conference Talk 9: Why Fine-Tuning is Dead](https://https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-009/)
 <!-- BLOG-POST-LIST:END -->
 
 
