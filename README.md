@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Office Hours 7: Replicate](https://christianjmills.com/posts/mastering-llms-course-notes/office-hours-007/)
 - [Notes on Weapons of Mass Instruction: A Schoolteacher’s Journey Through the Dark World of Compulsory Schooling](https://christianjmills.com/posts/weapons-of-mass-instruction-book-notes/)
 - [Conference Talk 15: Modal - Simple Scalable Serverless Services](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-015/)
 - [Notes on The Learning Game꞉ Teaching Kids to Think for Themselves, Embrace Challenge, and Love Learning](https://christianjmills.com/posts/the-learning-game-book-notes/)
 - [Notes on Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling](https://christianjmills.com/posts/dumbing-us-down-book-notes/)
-- [Conference Talk 14: Explaining the Basics of Retrieval Augmented Generation](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-014/)
 <!-- BLOG-POST-LIST:END -->
 
 
