@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Office Hours 8: Predibase](https://christianjmills.com/posts/mastering-llms-course-notes/office-hours-008/)
 - [Conference Talk 17: Language Models on the Command-Line](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-017/)
 - [Conference Talk 16: A Deep Dive on LLM Evaluation](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-016/)
 - [Chip War Book Notes](https://christianjmills.com/posts/chip-war-book-notes/)
 - [The Kill Chain Book Notes](https://christianjmills.com/posts/the-kill-chain-book-notes/)
-- [Office Hours 7: Replicate](https://christianjmills.com/posts/mastering-llms-course-notes/office-hours-007/)
 <!-- BLOG-POST-LIST:END -->
 
 
