@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Conference Talk 20: Back to Basics for RAG](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-020/)
 - [Conference Talk 19: Fine Tuning LLMs for Function Calling](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-019/)
 - [Office Hours 8: Predibase](https://christianjmills.com/posts/mastering-llms-course-notes/office-hours-008/)
 - [Conference Talk 18: Fine-Tuning OpenAI Models - Best Practices](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-018/)
 - [Conference Talk 17: Language Models on the Command-Line](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-017/)
-- [Conference Talk 16: A Deep Dive on LLM Evaluation](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-016/)
 <!-- BLOG-POST-LIST:END -->
 
 
