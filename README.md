@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CUDA MODE Lecture 3 : Getting Started With CUDA for Python Programmers](https://christianjmills.com/posts/cuda-mode-notes/lecture-003/)
 - [Livestream: Lessons from a Year of Building with LLMs](https://christianjmills.com/posts/mastering-llms-course-notes/lessons-from-a-year-of-building-with-llms/)
 - [Conference Talk 20: Back to Basics for RAG](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-020/)
 - [Conference Talk 19: Fine Tuning LLMs for Function Calling](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-019/)
 - [Office Hours 8: Predibase](https://christianjmills.com/posts/mastering-llms-course-notes/office-hours-008/)
-- [Conference Talk 18: Fine-Tuning OpenAI Models - Best Practices](https://christianjmills.com/posts/mastering-llms-course-notes/conference-talk-018/)
 <!-- BLOG-POST-LIST:END -->
 
 
