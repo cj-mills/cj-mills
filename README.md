@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes on Where is My Flying Car](https://christianjmills.com/posts/where-is-my-flying-car-book-notes/)
 - [Notes on Why Greatness Cannot Be Planned](https://christianjmills.com/posts/why-greatness-cannot-be-planned-book-notes/)
 - [CUDA MODE Lecture 5: Going Further with CUDA for Python Programmers](https://christianjmills.com/posts/cuda-mode-notes/lecture-005/)
 - [CUDA MODE Lecture 4: Compute and Memory Basics](https://christianjmills.com/posts/cuda-mode-notes/lecture-004/)
 - [CUDA MODE Lecture 3: Getting Started With CUDA for Python Programmers](https://christianjmills.com/posts/cuda-mode-notes/lecture-003/)
-- [Livestream: Lessons from a Year of Building with LLMs](https://christianjmills.com/posts/mastering-llms-course-notes/lessons-from-a-year-of-building-with-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 
