@@ -35,7 +35,7 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Notes on Where is My Flying Car](https://christianjmills.com/posts/where-is-my-flying-car-book-notes/)
+- [Notes on Where Is My Flying Car?](https://christianjmills.com/posts/where-is-my-flying-car-book-notes/)
 - [CUDA MODE Lecture 6: Optimizing Optimizers in PyTorch](https://christianjmills.com/posts/cuda-mode-notes/lecture-006/)
 - [Notes on Why Greatness Cannot Be Planned](https://christianjmills.com/posts/why-greatness-cannot-be-planned-book-notes/)
 - [CUDA MODE Lecture 5: Going Further with CUDA for Python Programmers](https://christianjmills.com/posts/cuda-mode-notes/lecture-005/)
