@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying YOLOX for Real-Time Object Tracking on Jetson Orin Nano](https://christianjmills.com/posts/pytorch-train-object-detector-yolox-tutorial/jetson-object-tracking/)
 - [Notes on Atomic Awakening: A New Look at the History and Future of Nuclear Power](https://christianjmills.com/posts/atomic-awakening-book-notes/)
 - [Notes on Where Is My Flying Car?](https://christianjmills.com/posts/where-is-my-flying-car-book-notes/)
 - [CUDA MODE Lecture 6: Optimizing Optimizers in PyTorch](https://christianjmills.com/posts/cuda-mode-notes/lecture-006/)
 - [Notes on Why Greatness Cannot Be Planned](https://christianjmills.com/posts/why-greatness-cannot-be-planned-book-notes/)
-- [CUDA MODE Lecture 5: Going Further with CUDA for Python Programmers](https://christianjmills.com/posts/cuda-mode-notes/lecture-005/)
 <!-- BLOG-POST-LIST:END -->
 
 
