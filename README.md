@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CUDA MODE Lecture 10: Build a Prod Ready CUDA library](https://christianjmills.com/posts/cuda-mode-notes/lecture-010/)
 - [CUDA MODE Lecture 9: Reductions](https://christianjmills.com/posts/cuda-mode-notes/lecture-009/)
 - [Notes on Trends in Deep Learning Hardware: Bill Dally &lpar;NVIDIA&rpar;](https://christianjmills.com/posts/cuda-mode-notes/trends-in-deep-learning-hardware-bill-dally-nvidia/)
 - [CUDA MODE Lecture 8: CUDA Performance Checklist](https://christianjmills.com/posts/cuda-mode-notes/lecture-008/)
 - [CUDA MODE Lecture 7: Advanced Quantization](https://christianjmills.com/posts/cuda-mode-notes/lecture-007/)
-- [Deploying YOLOX for Real-Time Object Tracking on Jetson Orin Nano](https://christianjmills.com/posts/pytorch-train-object-detector-yolox-tutorial/jetson-object-tracking/)
 <!-- BLOG-POST-LIST:END -->
 
 
