@@ -53,11 +53,11 @@
 ---
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/cj-mills/barracuda-inference-yolox-demo/issues/5) in [cj-mills/barracuda-inference-yolox-demo](https://github.com/cj-mills/barracuda-inference-yolox-demo)
-2. 🗣 Commented on [#53](https://github.com/cj-mills/christianjmills/issues/53#issuecomment-2361824791) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
-3. 🗣 Commented on [#4](https://github.com/cj-mills/byte-track-eigen/issues/4#issuecomment-2361449827) in [cj-mills/byte-track-eigen](https://github.com/cj-mills/byte-track-eigen)
-4. 🗣 Commented on [#52](https://github.com/cj-mills/christianjmills/issues/52#issuecomment-2346845524) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
-5. 🗣 Commented on [#41](https://github.com/cj-mills/christianjmills/issues/41#issuecomment-2327632334) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+1. 🗣 Commented on [#6](https://github.com/cj-mills/barracuda-inference-yolox-demo/issues/6#issuecomment-2361915035) in [cj-mills/barracuda-inference-yolox-demo](https://github.com/cj-mills/barracuda-inference-yolox-demo)
+2. 🔒 Closed issue [#5](https://github.com/cj-mills/barracuda-inference-yolox-demo/issues/5) in [cj-mills/barracuda-inference-yolox-demo](https://github.com/cj-mills/barracuda-inference-yolox-demo)
+3. 🗣 Commented on [#53](https://github.com/cj-mills/christianjmills/issues/53#issuecomment-2361824791) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
+4. 🗣 Commented on [#4](https://github.com/cj-mills/byte-track-eigen/issues/4#issuecomment-2361449827) in [cj-mills/byte-track-eigen](https://github.com/cj-mills/byte-track-eigen)
+5. 🗣 Commented on [#52](https://github.com/cj-mills/christianjmills/issues/52#issuecomment-2346845524) in [cj-mills/christianjmills](https://github.com/cj-mills/christianjmills)
 <!--END_SECTION:activity-->
 
 ---
