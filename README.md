@@ -36,10 +36,10 @@
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Getting Started with Intel’s PyTorch Extension for Arc GPUs on Windows](https://christianjmills.com/posts/intel-pytorch-extension-tutorial/native-windows/)
+- [Getting Started with Intel’s PyTorch Extension for Arc GPUs on Ubuntu](https://christianjmills.com/posts/intel-pytorch-extension-tutorial/native-ubuntu/)
 - [CUDA MODE Lecture 12: Flash Attention](https://christianjmills.com/posts/cuda-mode-notes/lecture-012/)
 - [CUDA MODE Lecture 11: Sparsity](https://christianjmills.com/posts/cuda-mode-notes/lecture-011/)
 - [CUDA MODE Lecture 10: Build a Prod Ready CUDA library](https://christianjmills.com/posts/cuda-mode-notes/lecture-010/)
-- [CUDA MODE Lecture 9: Reductions](https://christianjmills.com/posts/cuda-mode-notes/lecture-009/)
 <!-- BLOG-POST-LIST:END -->
 
 
