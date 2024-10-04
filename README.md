@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes on The Great Mental Models - Volume 1: General Thinking Concepts](https://christianjmills.com/posts/the-great-mental-models-book-series-notes/volume-1/)
 - [Notes on The Demon-Haunted World꞉ Science as a Candle in the Dark](https://christianjmills.com/posts/the-demon-haunted-world-book-notes/)
 - [Getting Started with Intel’s PyTorch Extension for Arc GPUs on Ubuntu](https://christianjmills.com/posts/intel-pytorch-extension-tutorial/native-ubuntu/)
 - [Getting Started with Intel’s PyTorch Extension for Arc GPUs on Windows](https://christianjmills.com/posts/intel-pytorch-extension-tutorial/native-windows/)
 - [GPU MODE Lecture 12: Flash Attention](https://christianjmills.com/posts/cuda-mode-notes/lecture-012/)
-- [GPU MODE Lecture 11: Sparsity](https://christianjmills.com/posts/cuda-mode-notes/lecture-011/)
 <!-- BLOG-POST-LIST:END -->
 
 
