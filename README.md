@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying YOLOX for Real-Time Object Tracking on the Raspberry Pi AI Kit](https://christianjmills.com/posts/pytorch-train-object-detector-yolox-tutorial/rpi5-ai-kit-object-tracking/)
 - [Setting Up a Local Python Environment with Mamba for Machine Learning Projects on Windows](https://christianjmills.com/posts/mamba-getting-started-tutorial-windows/)
 - [Notes on The Great Mental Models - Volume 1: General Thinking Concepts](https://christianjmills.com/posts/the-great-mental-models-book-series-notes/volume-1/)
 - [Notes on Brave New Words: How AI Will Revolutionize Education](https://christianjmills.com/posts/brave-new-words-book-notes/)
 - [Notes on The Demon-Haunted World꞉ Science as a Candle in the Dark](https://christianjmills.com/posts/the-demon-haunted-world-book-notes/)
-- [Getting Started with Intel’s PyTorch Extension for Arc GPUs on Ubuntu](https://christianjmills.com/posts/intel-pytorch-extension-tutorial/native-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
 
 
