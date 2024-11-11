@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GPU MODE Lecture 13: Ring Attention](https://christianjmills.com/posts/cuda-mode-notes/lecture-013/)
 - [Notes on Seeing What Others Don’t꞉ The Remarkable Ways We Gain Insights](https://christianjmills.com/posts/seeing-what-others-dont/)
 - [Deploying YOLOX for Real-Time Object Tracking on the Raspberry Pi AI Kit](https://christianjmills.com/posts/pytorch-train-object-detector-yolox-tutorial/rpi5-ai-kit-object-tracking/)
 - [Setting Up a Local Python Environment with Mamba for Machine Learning Projects on Windows](https://christianjmills.com/posts/mamba-getting-started-tutorial-windows/)
 - [Notes on The Great Mental Models - Volume 1: General Thinking Concepts](https://christianjmills.com/posts/the-great-mental-models-book-series-notes/volume-1/)
-- [Notes on Brave New Words: How AI Will Revolutionize Education](https://christianjmills.com/posts/brave-new-words-book-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 
