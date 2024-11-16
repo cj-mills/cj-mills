@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GPU MODE Lecture 14: Practitioners Guide to Triton](https://christianjmills.com/posts/cuda-mode-notes/lecture-014/)
 - [Quantizing timm Image Classifiers with ONNX Runtime and TensorRT in Ubuntu](https://christianjmills.com/posts/pytorch-train-image-classifier-timm-hf-tutorial/ort-tensorrt-ubuntu/)
 - [Quantizing YOLOX with ONNX Runtime and TensorRT in Ubuntu](https://christianjmills.com/posts/pytorch-train-object-detector-yolox-tutorial/ort-tensorrt-ubuntu/)
 - [GPU MODE Lecture 13: Ring Attention](https://christianjmills.com/posts/cuda-mode-notes/lecture-013/)
 - [Notes on Seeing What Others Don’t꞉ The Remarkable Ways We Gain Insights](https://christianjmills.com/posts/seeing-what-others-dont/)
-- [Deploying YOLOX for Real-Time Object Tracking on the Raspberry Pi AI Kit](https://christianjmills.com/posts/pytorch-train-object-detector-yolox-tutorial/rpi5-ai-kit-object-tracking/)
 <!-- BLOG-POST-LIST:END -->
 
 
