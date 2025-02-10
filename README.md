@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes on The Superstruct Manifesto](https://christianjmills.com/posts/the-superstruct-manifesto-book-notes/)
 - [Notes on The Great Mental Models - Volume 2: Physics, Chemistry, and Biology](https://christianjmills.com/posts/the-great-mental-models-book-series-notes/volume-2/)
 - [GPU MODE Lecture 15: CUTLASS](https://christianjmills.com/posts/cuda-mode-notes/lecture-015/)
 - [GPU MODE Lecture 14: Practitioners Guide to Triton](https://christianjmills.com/posts/cuda-mode-notes/lecture-014/)
 - [Quantizing timm Image Classifiers with ONNX Runtime and TensorRT in Ubuntu](https://christianjmills.com/posts/pytorch-train-image-classifier-timm-hf-tutorial/ort-tensorrt-ubuntu/)
-- [Quantizing YOLOX with ONNX Runtime and TensorRT in Ubuntu](https://christianjmills.com/posts/pytorch-train-object-detector-yolox-tutorial/ort-tensorrt-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
 
 
