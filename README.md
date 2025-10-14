@@ -35,11 +35,11 @@
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Insist on a Roadmap Before Starting Any AI Project.](https://christianjmills.com/posts/client-best-practices/roadmaps/)
 - [My Client’s AI Project Was Starving for Data. So We Built a ‘Data Factory’ to Feed It.](https://christianjmills.com/posts/client-case-studies/synthetic-data-factory/)
 - [Notes on ICML 2024 Tutorial: Physics of Language Models](https://christianjmills.com/posts/physics-of-language-models-notes/icml-tutorial/)
 - [Notes on The Superstruct Manifesto](https://christianjmills.com/posts/the-superstruct-manifesto-book-notes/)
 - [Notes on The Great Mental Models - Volume 2: Physics, Chemistry, and Biology](https://christianjmills.com/posts/the-great-mental-models-book-series-notes/volume-2/)
-- [GPU MODE Lecture 15: CUTLASS](https://christianjmills.com/posts/cuda-mode-notes/lecture-015/)
 <!-- BLOG-POST-LIST:END -->
 
 
