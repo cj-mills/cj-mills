@@ -9,10 +9,6 @@
 
 <!-- [<img align="left" alt="Solidity" width="32px" src="https://github.com/github/explore/raw/b71c44e3113f74876a894853d0543eb918510365/topics/solidity/solidity.png" />][solidity] -->
 
-<br/>
-<br/>
-
-
 ---
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
